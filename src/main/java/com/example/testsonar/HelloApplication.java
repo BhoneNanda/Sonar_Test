@@ -24,5 +24,8 @@ public class HelloApplication extends Application {
 	private WebElement webElement;
 	@FindBy(css="")
 	private WebElement webElement;
+	@FindBy(css="")
+	private WebElement webElement;
+
 
 }
